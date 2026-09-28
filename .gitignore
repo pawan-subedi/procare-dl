@@ -1,1 +1,5 @@
+.env
+venv/
 primrose_photos/
+downloaded_ids.json
+run.log
