@@ -3,3 +3,4 @@ venv/
 primrose_photos/
 downloaded_ids.json
 run.log
+pending_photos_import.json
